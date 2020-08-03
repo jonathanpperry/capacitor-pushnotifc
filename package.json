@@ -1,8 +1,8 @@
 {
-  "name": "pushApp",
+  "name": "tokyoist",
   "version": "0.0.1",
-  "author": "Ionic Framework",
-  "homepage": "https://ionicframework.com/",
+  "author": "Jonathan Perry",
+  "homepage": "https://jonathanperry.co/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",

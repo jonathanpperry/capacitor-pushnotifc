@@ -1,6 +1,6 @@
 {
-  "appId": "com.jonnyramen.devpush",
-  "appName": "pushApp",
+  "appId": "com.jonnyramen.tokyoist",
+  "appName": "Tokyoist",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "www",
