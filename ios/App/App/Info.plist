@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
-        <string>pushApp</string>
+	<string>pushApp</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -73,5 +73,30 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<true/>
+	<key>LSApplicationCategoryType</key>
+	<string>    &lt;key&gt;NSExceptionDomains&lt;/key&gt;
+    &lt;dict&gt;
+      &lt;key&gt;facebook.com&lt;/key&gt;
+      &lt;key&gt;fbcdn.net&lt;/key&gt;
+      &lt;key&gt;akamaihd.net&lt;/key&gt;
+      &lt;dict&gt;
+        &lt;key&gt;NSIncludesSubdomains&lt;/key&gt;
+        &lt;key&gt;NSThirdPartyExceptionRequiresForwardSecrecy&lt;/key&gt;
+        &lt;true/&gt;
+        &lt;false/&gt;
+      &lt;/dict&gt;
+      &lt;dict&gt;
+        &lt;key&gt;NSIncludesSubdomains&lt;/key&gt;
+        &lt;key&gt;NSThirdPartyExceptionRequiresForwardSecrecy&lt;/key&gt;
+        &lt;true/&gt;
+        &lt;false/&gt;
+      &lt;/dict&gt;
+      &lt;dict&gt;
+        &lt;key&gt;NSIncludesSubdomains&lt;/key&gt;
+        &lt;key&gt;NSThirdPartyExceptionRequiresForwardSecrecy&lt;/key&gt;
+        &lt;true/&gt;
+        &lt;false/&gt;
+      &lt;/dict&gt;
+    &lt;/dict&gt;</string>
 </dict>
 </plist>

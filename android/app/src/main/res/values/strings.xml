@@ -4,4 +4,6 @@
     <string name="title_activity_main">Tokyoist</string>
     <string name="package_name">com.jonnyramen.tokyoist</string>
     <string name="custom_url_scheme">com.jonnyramen.tokyoist</string>
+    <string name="fb_app_id">210117507100514</string>
+    <string name="fb_app_name">Tokyoist</string>
 </resources>
